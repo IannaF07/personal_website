@@ -7,7 +7,7 @@ const projects = [
   {
     title: "Good Deeds",
     shortDesc: "Created a mock-up of a community service app.",
-    fullDesc: "This app was created colabrating with AI to see how it functions with certain input. The app was created to potentially solve the problem of reaching out to help homeless people, while gaining more community service."
+    fullDesc: "This app was created collabrating with AI to see how it functions with certain input. The app was created to potentially solve the problem of reaching out to help homeless people, while gaining more community service."
   },
   {
     title: "Project TBA",
