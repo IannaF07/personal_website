@@ -5,9 +5,9 @@ const projects = [
     fullDesc: "I utlitized AI to generate and modify a snake to gain knowledge on how to work with AI."
   },
   {
-    title: "Project TBA",
-    shortDesc: "....",
-    fullDesc: "...."
+    title: "Good Deeds",
+    shortDesc: "Created a mock-up of a community service app.",
+    fullDesc: "This app was created colabrating with AI to see how it functions with certain input. The app was created to potentially solve the problem of reaching out to help homeless people, while gaining more community service."
   },
   {
     title: "Project TBA",
